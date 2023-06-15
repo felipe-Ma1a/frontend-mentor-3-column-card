@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: <a href="#" target="_blank">Frontend Mentor</a>
-- Live Site URL: <a href="#" target="_blank">Github Pages</a>
+- Solution URL: <a href="https://www.frontendmentor.io/solutions/3columncard-using-flexbox-and-grid-layout-ESvLVaIVTG" target="_blank">Frontend Mentor</a>
+- Live Site URL: <a href="https://felipe-ma1a.github.io/frontend-mentor-3-column-card/" target="_blank">Github Pages</a>
 
 ## Built with
 
